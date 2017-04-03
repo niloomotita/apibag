@@ -18,7 +18,7 @@ apibag can make post and get requests currently, with persistent history, but th
 
 ## Milestons
   * get and post methods work just like httpie
-  * Separate name spaces / bags can be defined for keeping the history. So that saying open projectX only brings up the history for that project.
+  * Separate name spaces / bags can be defined for keeping the history. So this means open projectX only brings up the history for that project.
   * Each request can be saved in some format
 
 
