@@ -10,7 +10,7 @@ npm install -g apibag
 ## Why?
 I love postman, but clicking around is not my favorite part of the day. However its persistent history and collections are cool features. And those are something to miss when using cli tools, like httpie or curl.
 
-Let's  see if the same experience can be built in command line.
+Let's see if the same experience can be built in command line.
 
 ## Work in progress
 
@@ -18,7 +18,7 @@ apibag can make post and get requests currently, with persistent history, but th
 
 ## Milestons
   * get and post methods work just like httpie
-  * Separate name spaces / bags can be defined for keeping the history. So that saying open projectX only brings up the history for that project.
+  * Separate name spaces / bags can be defined for keeping the history. So tit means open projectX only brings up the history for that project.
   * Each request can be saved in some format
 
 
